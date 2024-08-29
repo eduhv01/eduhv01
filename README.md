@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Eduardo
 
-- 🌱 Estudando JS, Java, PHP
-- 👯 Procuro colaborar em ...
-- 📫 Contate-me no email: eduardohv1021@gmail.com
-- 💬 Idiomas: Porguês, Ingês Intermediário
-- 📜 Certificados: (https://www.devmedia.com.br/certificado/unificado/javascript/eduardo-honorio-de-vasconcelos)
+- 🌱 Estudando JavaScript, Java e PHP
+- 👯 Procuro colaborar em projetos de desenvolvimento e tecnologia
+- 📫 Contate-me pelo e-mail: eduardohv1021@gmail.com
+- 💬 Idiomas: Português e Inglês Intermediário
+- 📜 Certificados: <a href="https://www.devmedia.com.br/certificado/unificado/javascript/eduardo-honorio-de-vasconcelos" target="_blank">Certificado de JavaScript</a>
 
 - <h2 align="left">Techs</h2>
 
